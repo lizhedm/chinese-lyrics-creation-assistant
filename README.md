@@ -6,6 +6,7 @@ Used for searching a Chinese pinyin when creating a Chinese song, the result inc
 ### A example:
 
 input: zhang
+
 output: [['丈', '仗', '帐', '帳', '张', '張', '樟', '章', '胀', '脹', '障'], ['掌', '涨', '漲']]
 
 The pinyin data comes from https://github.com/mozillazg/pinyin-data
