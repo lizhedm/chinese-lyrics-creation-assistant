@@ -1,7 +1,7 @@
 # chinese-lyrics-creation-assistant
 A tool for Chinese lyrics creation
 
-### Used for searching a Chinese pinyin when creating a Chinese song, the result includes all the pinyin which has the same rhyme with the input.
+### Used for searching a Chinese pinyin when creating a Chinese song, the result includes all the pinyin which have the same rhyme with the input one.
 
 ### A example:
 
